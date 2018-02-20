@@ -1,4 +1,3 @@
-https://img.shields.io/docker/build/wemicky/jenkins-slave-maven.svg
 [![Build Status](https://img.shields.io/docker/build/wemicky/jenkins-slave-maven.svg)](https://hub.docker.com/r/wemicky/jenkins-slave-maven/)
 
 Jenkins jnlp slave with maven included
